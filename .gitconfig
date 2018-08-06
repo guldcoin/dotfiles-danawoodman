@@ -1,0 +1,9 @@
+[user]
+	username = danawoodman
+	name = Dana Woodman
+	location = Sebastopol, CA, USA
+	website = http://danawoodman.com
+[commit]
+	gpgsign = true
+[aliases]
+	github = danawoodman
